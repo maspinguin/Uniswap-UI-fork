@@ -1,4 +1,4 @@
-# CoolSwap template
+# Uniswap-UI-fork template
 
 ### Rinkeby
 
