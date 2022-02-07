@@ -8,14 +8,6 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 3,
-      "address": "0x9Df192abB349E77c6F63f03f720f231391E375A5",
-      "name": "Prosperite Gold",
-      "symbol": "PRG",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
       "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
       "name": "Compound USD Coin",
@@ -217,9 +209,9 @@
     },
     {
       "chainId": 3,
-      "address": "0xc0e2D7d9279846B80EacdEa57220AB2333BC049d",
-      "name": "0x Protocol Token",
-      "symbol": "ZRX",
+      "address": "0x9Df192abB349E77c6F63f03f720f231391E375A5",
+      "name": "Prosperite Gold",
+      "symbol": "PRG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
