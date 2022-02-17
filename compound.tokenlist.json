@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 3,
-      "address": "0xDBca0350fEC7A101C0e89243FC78C7a270e69e70",
+      "address": "0x2Fb1918b82692b7d7A376A94e050a321b53b138e",
       "name": "Prosperite Gold",
       "symbol": "PRG",
       "decimals": 18,
@@ -17,7 +17,7 @@
     },
    {
     "chainId": 3,
-    "address": "0x41fF45682304d9f4FBd06Db8390982aCEbB4DC14",
+    "address": "0x40bcb7A992250Fc3A15BA8025Cd22Ed9BcA96769",
     "name": "Prosperite Future 2024",
     "symbol": "PRF-24",
     "decimals": 18,
