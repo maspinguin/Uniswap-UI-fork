@@ -7,14 +7,7 @@
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
-    {
-      "chainId": 3,
-      "address": "0x2Fb1918b82692b7d7A376A94e050a321b53b138e",
-      "name": "Prosperite Gold",
-      "symbol": "PRG",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/crawazaky/Uniswap-UI-fork/master/asset_PRG-svg.svg"
-    },
+
    {
     "chainId": 3,
     "address": "0x40bcb7A992250Fc3A15BA8025Cd22Ed9BcA96769",
