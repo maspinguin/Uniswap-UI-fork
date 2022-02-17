@@ -9,12 +9,20 @@
   "tokens": [
     {
       "chainId": 3,
-      "address": "0x9Df192abB349E77c6F63f03f720f231391E375A5",
+      "address": "0xDBca0350fEC7A101C0e89243FC78C7a270e69e70",
       "name": "Prosperite Gold",
       "symbol": "PRG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/crawazaky/Uniswap-UI-fork/master/asset_PRG-svg.svg"
-    }
+    },
+   {
+    "chainId": 3,
+    "address": "0x41fF45682304d9f4FBd06Db8390982aCEbB4DC14",
+    "name": "Prosperite Future 2024",
+    "symbol": "PRF-24",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/crawazaky/Uniswap-UI-fork/master/asset_PRG-svg.svg"
+  }
   ],
   "version": {
     "major": 2,
