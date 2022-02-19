@@ -14,6 +14,14 @@
     "symbol": "PRF-24",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/crawazaky/Uniswap-UI-fork/master/asset_PRG-svg.svg"
+  },
+   {
+    "chainId": 3,
+    "address": "0xe10276032cf79eD973c9928bE41cB1e74b1E7F62",
+    "name": "Prosperite Future 2025",
+    "symbol": "PRF-25",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/crawazaky/Uniswap-UI-fork/master/asset_PRG-svg.svg"
   }
   ],
   "version": {
