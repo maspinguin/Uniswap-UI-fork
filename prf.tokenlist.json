@@ -9,7 +9,7 @@
   "tokens": [
    {
     "chainId": 3,
-    "address": "0x40bcb7A992250Fc3A15BA8025Cd22Ed9BcA96769",
+    "address": "0x0177D0F324E75F8501B17066ba349A8E0481CD0f",
     "name": "Prosperite Future 2024",
     "symbol": "PRF-24",
     "decimals": 18,
@@ -17,7 +17,7 @@
   },
    {
     "chainId": 3,
-    "address": "0xe10276032cf79eD973c9928bE41cB1e74b1E7F62",
+    "address": "0xe190eCd5123DEc48a37c184590deB1C61341DBec",
     "name": "Prosperite Future 2025",
     "symbol": "PRF-25",
     "decimals": 18,
